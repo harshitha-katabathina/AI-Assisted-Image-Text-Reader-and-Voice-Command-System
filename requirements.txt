@@ -1,0 +1,15 @@
+torch
+transformers
+opencv-python
+pillow
+pdf2image
+pyttsx3
+sounddevice
+vosk
+googletrans==4.0.0-rc1
+gTTS
+numpy
+matplotlib
+poppler-utils  # note: on Mac use brew install poppler
+
+
